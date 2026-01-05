@@ -10,6 +10,14 @@
 
 Check the [repositories](https://github.com/argha5?tab=repositories) section to see my efforts! I hope you will enjoy it!
 
+## Live Projects
+
+- [Watermark Remover](https://argha5.github.io/watermark-remover/) – Remove watermarks from images directly in the browser.
+- [Image Color Picker](https://argha5.github.io/imagecolorpicker/) – Pick and copy hex colors from any image instantly.
+- [Typing Speed Tester](https://argha5.github.io/typingspeed/) – Test your typing speed with real-time WPM and accuracy stats.
+- [Typing Finger Guide (Live)](https://argha5.github.io/Typing-Finger-Guide-Live/) – Learn correct finger placement for each key while typing.
+
+
 ## Github Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=argha5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
