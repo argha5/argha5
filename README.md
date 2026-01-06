@@ -24,16 +24,13 @@
 ## 📊 GitHub Statistics
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argha5&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argha5&layout=compact&theme=radical" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argha5&theme=radical" width="48%" />
-  </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=argha5&show_icons=true&theme=radical&count_private=true)
 
-## 🛠️ Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argha5&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=argha5&theme=radical)
+
 
 <p align="center">
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
