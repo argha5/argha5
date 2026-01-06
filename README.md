@@ -16,11 +16,12 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🖼️ **Watermark Remover** | Remove watermarks from images directly in the browser | [Visit](https://argha5.github.io/watermark-remover/) |
-| 🎨 **Image Color Picker** | Pick and copy hex colors from any image instantly | [Visit](https://argha5.github.io/imagecolorpicker/) |
-| ⌨️ **Typing Speed Tester** | Test your typing speed with real-time WPM and accuracy | [Visit](https://argha5.github.io/typingspeed/) |
-| ✋ **Typing Finger Guide** | Learn correct finger placement for each key | [Visit](https://argha5.github.io/Typing-Finger-Guide-Live/) |
-| 🎓 **UIUC GPA & Tuition Fees** | Calculate GPA and view tuition fee details easily | [Visit](https://argha5.github.io/uiucgpa-tutionfees/) |
+| 🖼️ **Watermark Remover** | Remove watermarks from images directly in the browser | <a href="https://argha5.github.io/watermark-remover/" target="_blank" rel="noopener noreferrer">Visit</a> |
+| 🎨 **Image Color Picker** | Pick and copy hex colors from any image instantly | <a href="https://argha5.github.io/imagecolorpicker/" target="_blank" rel="noopener noreferrer">Visit</a> |
+| ⌨️ **Typing Speed Tester** | Test your typing speed with real-time WPM and accuracy | <a href="https://argha5.github.io/typingspeed/" target="_blank" rel="noopener noreferrer">Visit</a> |
+| ✋ **Typing Finger Guide** | Learn correct finger placement for each key | <a href="https://argha5.github.io/Typing-Finger-Guide-Live/" target="_blank" rel="noopener noreferrer">Visit</a> |
+| 🎓 **UIUC GPA & Tuition Fees** | Calculate GPA and view tuition fee details easily | <a href="https://argha5.github.io/uiucgpa-tutionfees/" target="_blank" rel="noopener noreferrer">Visit</a> |
+
 
 
 ## 📊 GitHub Statistics
