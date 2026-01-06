@@ -1,45 +1,58 @@
-# Hi 👋, This is `Argha`
+# Hi 👋, I'm Argha
 
-![Profile views](https://komarev.com/ghpvc/?username=argha5&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=argha5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-- 🎓 I'm pursuing my Bachelor's Degree in Computer Science & Engineering (CSE) from [United International University](https://www.uiu.ac.bd/) in Bangladesh.
-- 💻 I love to introduce myself as a Flutter Developer. I enjoy building software solutions and exploring new technologies.
-- 📫 How to reach me: **arghabiswas230@gmail.com**
-- 🌟 I love learning and working on mobile app development.
-- 📚 Passionate about software development and creating impactful applications.
+## 🎓 About Me
 
-Check the [repositories](https://github.com/argha5?tab=repositories) section to see my efforts! I hope you will enjoy it!
+- 🎯 CSE Student at [United International University](https://www.uiu.ac.bd/), Bangladesh
+- 💻 Flutter Developer passionate about building impactful applications
+- 📫 Reach me at: **arghabiswas230@gmail.com**
+- 🌟 Love learning and working on mobile app development
+- 📚 Exploring new technologies and creating software solutions
 
-## Live Projects
+## 🚀 Live Projects
 
-- [Watermark Remover](https://argha5.github.io/watermark-remover/) – Remove watermarks from images directly in the browser.
-- [Image Color Picker](https://argha5.github.io/imagecolorpicker/) – Pick and copy hex colors from any image instantly.
-- [Typing Speed Tester](https://argha5.github.io/typingspeed/) – Test your typing speed with real-time WPM and accuracy stats.
-- [Typing Finger Guide (Live)](https://argha5.github.io/Typing-Finger-Guide-Live/) – Learn correct finger placement for each key while typing.
+| Project | Description | Link |
+|---------|-------------|------|
+| 🖼️ **Watermark Remover** | Remove watermarks from images directly in the browser | [Visit](https://argha5.github.io/watermark-remover/) |
+| 🎨 **Image Color Picker** | Pick and copy hex colors from any image instantly | [Visit](https://argha5.github.io/imagecolorpicker/) |
+| ⌨️ **Typing Speed Tester** | Test your typing speed with real-time WPM and accuracy | [Visit](https://argha5.github.io/typingspeed/) |
+| ✋ **Typing Finger Guide** | Learn correct finger placement for each key | [Visit](https://argha5.github.io/Typing-Finger-Guide-Live/) |
 
+## 📊 GitHub Statistics
 
-## Github Stats 📈
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=argha5&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=argha5&layout=compact&theme=dracula&hide_border=false&card_width=320" alt="Most Used Languages" height="170" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=argha5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argha5&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=argha5&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false)
+## 🛠️ Languages and Tools
 
-## Languages and Tools ⚙🛠
-
-<p align="left">
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-## Connect with me 🌐
+## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:arghabiswas230@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/argha-biswas-083496270" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://fb.com/arghabiswas20" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a></p>
+  <a href="https://www.linkedin.com/in/argha-biswas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/argha5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/argha5">argha5</a> | Check out my <a href="https://github.com/argha5?tab=repositories">repositories</a>!</i>
+</div>
