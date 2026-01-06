@@ -4,7 +4,7 @@
 
 - 🎓 I'm pursuing my Bachelor's Degree in Computer Science & Engineering (CSE) from [United International University](https://www.uiu.ac.bd/) in Bangladesh.
 - 💻 I love to introduce myself as a Flutter Developer. I enjoy building software solutions and exploring new technologies.
-- 📫 How to reach me: **arghabiswas230@.com**
+- 📫 How to reach me: **arghabiswas230@gmail.com**
 - 🌟 I love learning and working on mobile app development.
 - 📚 Passionate about software development and creating impactful applications.
 
