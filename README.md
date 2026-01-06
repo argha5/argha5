@@ -20,6 +20,8 @@
 | 🎨 **Image Color Picker** | Pick and copy hex colors from any image instantly | [Visit](https://argha5.github.io/imagecolorpicker/) |
 | ⌨️ **Typing Speed Tester** | Test your typing speed with real-time WPM and accuracy | [Visit](https://argha5.github.io/typingspeed/) |
 | ✋ **Typing Finger Guide** | Learn correct finger placement for each key | [Visit](https://argha5.github.io/Typing-Finger-Guide-Live/) |
+| 🎓 **UIUC GPA & Tuition Fees** | Calculate GPA and view tuition fee details easily | [Visit](https://argha5.github.io/uiucgpa-tutionfees/) |
+
 
 ## 📊 GitHub Statistics
 
