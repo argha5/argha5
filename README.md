@@ -23,14 +23,15 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argha5&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=argha5&layout=compact&theme=dracula&hide_border=false&card_width=320" alt="Most Used Languages" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argha5&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=argha5&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argha5&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argha5&theme=radical" width="48%" />
+  </p>
 
 ## 🛠️ Languages and Tools
 
